@@ -92,6 +92,7 @@ packagesPacman=(
     "ttf-fira-sans" 
     "ttf-fira-code" 
     "ttf-firacode-nerd" 
+    "timeshift"
     "figlet" 
     "vlc" 
     "exa" 
