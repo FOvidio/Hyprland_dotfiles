@@ -14,10 +14,10 @@ The dotfiles are tested with Arch Linux, Manjaro Linux, EndeavourOS and Arco Lin
 - Menus: Rofi
 - Colorscheme: pywal (dynamic)
 - Browsers: chromium (brave optional)
-- Filemanager: Thunar
+- Filemanager: dolphin
 - Cursor: Bibata Modern Ice
 - Icons: Papirus-Icon-Theme
-- Virtual Machine: qemu (Windows 11 with looking glass and xrdp)
+
 
 ## Hyprland
 
