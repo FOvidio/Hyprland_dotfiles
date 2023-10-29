@@ -69,6 +69,14 @@ cd dotfiles
 # Install dotfiles
 ./3-install-dotfiles.sh
 
+
+```
+
+
+## Wallpaper
+![default](https://github.com/FOvidio/Hyprland_dotfiles/assets/148785762/ba4ea9eb-6633-4031-9c3e-a18ae9888082)
+
+
 ```
 Please note that every Arch Linux system is different and I cannot guarantee that everything works fine on your system.
 
