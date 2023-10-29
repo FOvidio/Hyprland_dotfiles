@@ -9,7 +9,7 @@
 # 
 # ----------------------------------------------------- 
 
-timeswaylock=600
+timeswaylock=800
 timeoff=960
 
 if [ -f "/usr/bin/swayidle" ]; then
