@@ -1,5 +1,6 @@
 # ML4W dotfiles
-QT_QPA_PLATFORM=xcb krdc
+Add export to hyprland/environments/default.conf
+QT_QPA_PLATFORM=xcb
 
 This is my configuration of Hyprland (Wayland) and Qtile (Xorg).
 This package includes installation scripts to install and setup the required components.
