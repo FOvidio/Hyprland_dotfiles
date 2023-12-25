@@ -1,4 +1,4 @@
-# ML4W dotfiles
+# dotfiles
 Add export to hyprland/environments/default.conf
 this fix teamviewer error wayland
 QT_QPA_PLATFORM=xcb
