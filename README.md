@@ -1,3 +1,13 @@
+# Dolphin FileManager
+1 - sudo rm -rf /usr/lib/systemd/user/plasma-dolphin.service
+
+2 - sudo rm -rf /usr/share/dbus-1/services/org.kde.dolphin.FileManager1.service
+
+# Windows Rules Stesam
+windowrulev2 = stayfocused, title:^()$,class:^(steam)$
+windowrulev2 = minsize 1 1, title:^()$,class:^(steam)$
+
+
 # dotfiles
 Add export to hyprland/environments/default.conf
 this fix teamviewer error wayland
