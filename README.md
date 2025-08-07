@@ -8,17 +8,18 @@ windowrulev2 = stayfocused, title:^()$,class:^(steam)$
 windowrulev2 = minsize 1 1, title:^()$,class:^(steam)$
 
 # Monitors
-# █▀▄▀█ █▀█ █▄░█ █ ▀█▀ █▀█ █▀█ █▀
-# █░▀░█ █▄█ █░▀█ █ ░█░ █▄█ █▀▄ ▄█
 
-# Set your monitor configuration here
-# See https://wiki.hyprland.org/Configuring/Monitors/
-# For a sample file, please refer to https://github.com/prasanthrangan/hyprdots/blob
+Normal
+
 monitor = DP-1, 1920x1080@60, 0x0, 1 
-#Horizontal
+
+Horizontal
 monitor = DP-3, 1920x1080@60.00, 1920x0, 1
-#Vertical 
-#monitor = DP-3, 1920x1080@60.00, 1920x0, 1, transform, 3
+
+Vertical 
+
+monitor = DP-3, 1920x1080@60.00, 1920x0, 1, transform, 3
+
 
 # dotfiles
 Add export to hyprland/environments/default.conf
