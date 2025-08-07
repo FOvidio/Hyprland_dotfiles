@@ -9,17 +9,11 @@ windowrulev2 = minsize 1 1, title:^()$,class:^(steam)$
 
 # Monitors
 
-Normal
+Normal >>>  monitor = DP-1, 1920x1080@60, 0x0, 1 
 
-monitor = DP-1, 1920x1080@60, 0x0, 1 
+Horizontal >>>  monitor = DP-3, 1920x1080@60.00, 1920x0, 1
 
-Horizontal
-
-monitor = DP-3, 1920x1080@60.00, 1920x0, 1
-
-Vertical 
-
-monitor = DP-3, 1920x1080@60.00, 1920x0, 1, transform, 3
+Vertical >>>  monitor = DP-3, 1920x1080@60.00, 1920x0, 1, transform, 3
 
 
 # dotfiles
